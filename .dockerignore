@@ -1,0 +1,6 @@
+__pycache__/          # Python cache files
+*.log                 # Log files
+*.pytest_cache/       # Testing cache
+.git/                 # Git history
+.venv/                # Local Python virtual environment
+*.pyc                 # Compiled Python files
